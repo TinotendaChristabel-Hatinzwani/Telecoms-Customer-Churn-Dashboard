@@ -2,7 +2,7 @@ Telecoms Customer Churn Dashboard
 An interactive Power BI dashboard analyzing customer churn in the telecommunications industry, built to help businesses identify at-risk customers and reduce churn through data-driven decisions.
 
 Business Problem
-Customer churn is one of the biggest challenges in the telecoms industry. Losing customers is costly — this dashboard was built to answer the key question:"Which customers are most likely to leave, and why?"*
+Customer churn is one of the biggest challenges in the telecoms industry. Losing customers is costly — this dashboard was built to answer the key question:"Which customers are most likely to leave, and why?"
 
 Dashboard Pages
 
@@ -10,7 +10,7 @@ Page 1: Interactive Dashboard
 Visual breakdown of churn across multiple dimensions:
 
 - 👥 Gender — Churn comparison between male and female customers
-- 📄*Contract Type — Month-to-month vs. one-year vs. two-year contracts
+- 📄Contract Type — Month-to-month vs. one-year vs. two-year contracts
 - 📡 Subscribed Services— Impact of streaming, tech support, internet type, and more
 - 📈 Key KPIs — At-a-glance churn rate metrics for quick insight
 
@@ -23,9 +23,9 @@ A text-based summary designed for stakeholders and decision-makers:
 
  💡 Key Insights
 
-- Customers on *month-to-month contracts* churn at significantly higher rates
-- Customers with *fewer subscribed services* are more likely to leave
-- Churn patterns vary across *demographics and service bundles*
+- Customers on month-to-month contracts churn at significantly higher rates
+- Customers with fewer subscribed services are more likely to leave
+- Churn patterns vary across demographics and service bundles
 
 
 🛠️ Tools Used
