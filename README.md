@@ -22,9 +22,9 @@ A text-based summary designed for stakeholders and decision-makers:
 - ✅ Recommendations— Actionable steps to reduce churn based on the data
 
 Dashboard Preview
-<img width="1439" height="807" alt="Executive dashboard" src="https://github.com/user-attachments/assets/e835569a-0751-465a-8c75-dfe0451e8763" />
-<img width="1434" height="802" alt="Executive summary" src="https://github.com/user-attachments/assets/cc6de39f-56f4-4369-ab7e-5b17e21017bb" />
-<img width="1435" height="797" alt="Business Recommendations" src="https://github.com/user-attachments/assets/231b0f2a-c893-45b7-8d97-870f1ea52d6b" />
+<img width="1431" height="809" alt="Telecoms dashboard " src="https://github.com/user-attachments/assets/5978f0da-d554-492f-8f85-af1a20d85d24" />
+<img width="1425" height="804" alt="Tel Summary" src="https://github.com/user-attachments/assets/7f0774c6-ae7b-4fc8-abcf-f67352e0b33e" />
+<img width="1431" height="802" alt="Tel recommendations" src="https://github.com/user-attachments/assets/ec6b56b9-ca4f-4b46-a19b-9909745378f4" />
 
 
  💡 Key Insights
