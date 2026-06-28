@@ -1,7 +1,7 @@
 📌 Project Overview
 
 
-This project is an interactive Power BI dashboard developed to analyze NetOne customer data and provide actionable insights into customer demographics, revenue, service usage, and customer behavior. The dashboard is designed to help decision-makers monitor key performance indicators (KPIs), identify trends, and support data-driven business decisions
+This project is an interactive Power BI dashboard developed to analyze customer data and provide actionable insights into customer demographics, revenue, service usage, and customer behavior. The dashboard is designed to help decision-makers monitor key performance indicators (KPIs), identify trends, and support data-driven business decisions
 
 Business Problem
 Customer churn is one of the biggest challenges in the telecoms industry. Losing customers is costly — this dashboard was built to answer the key question:"Which customers are most likely to leave, and why?"
