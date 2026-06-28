@@ -33,11 +33,6 @@ Power BI ( Dashboard design & data visualization )
 Kaggle (Dataset source)
 Excel |Power Query| Data cleaning & transformation 
 
- 📁 Dataset
-
-Source:* [Kaggle — Telco Customer Churn Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
-- *Records:* 7,043 customers
-- *Features:* 
 
  How to Use
 
