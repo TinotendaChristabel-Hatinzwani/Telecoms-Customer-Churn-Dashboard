@@ -21,6 +21,12 @@ A text-based summary designed for stakeholders and decision-makers:
 - 🔍 Key Insights — Plain-language explanation of what the visuals reveal
 - ✅ Recommendations— Actionable steps to reduce churn based on the data
 
+Dashboard Preview
+<img width="1439" height="807" alt="Executive dashboard" src="https://github.com/user-attachments/assets/e835569a-0751-465a-8c75-dfe0451e8763" />
+<img width="1434" height="802" alt="Executive summary" src="https://github.com/user-attachments/assets/cc6de39f-56f4-4369-ab7e-5b17e21017bb" />
+<img width="1435" height="797" alt="Business Recommendations" src="https://github.com/user-attachments/assets/231b0f2a-c893-45b7-8d97-870f1ea52d6b" />
+
+
  💡 Key Insights
 
 - Customers on month-to-month contracts churn at significantly higher rates
