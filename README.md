@@ -1,25 +1,29 @@
-Telecoms Customer Churn Dashboard
-An interactive Power BI dashboard analyzing customer churn in the telecommunications industry, built to help businesses identify at-risk customers and reduce churn through data-driven decisions.
+📌 Project Overview
+
+
+This project is an interactive Power BI dashboard developed to analyze NetOne customer data and provide actionable insights into customer demographics, revenue, service usage, and customer behavior. The dashboard is designed to help decision-makers monitor key performance indicators (KPIs), identify trends, and support data-driven business decisions
 
 Business Problem
 Customer churn is one of the biggest challenges in the telecoms industry. Losing customers is costly — this dashboard was built to answer the key question:"Which customers are most likely to leave, and why?"
 
-Dashboard Pages
+🎯 Objectives
 
-Page 1: Interactive Dashboard
-Visual breakdown of churn across multiple dimensions:
+* Analyze the customer base across different demographic groups.
+* Monitor revenue and customer distribution.
+* Understand service adoption and usage patterns.
+* Identify opportunities to improve customer engagement and retention.
+* Present business insights through an interactive and user-friendly dashboard.
 
-- 👥 Gender — Churn comparison between male and female customers
-- 📄Contract Type — Month-to-month vs. one-year vs. two-year contracts
-- 📡 Subscribed Services— Impact of streaming, tech support, internet type, and more
-- 📈 Key KPIs — At-a-glance churn rate metrics for quick insight
+Dashboard Features
+The dashboard includes:
+* Executive KPI summary
+* Customer demographics analysis
+* Revenue analysis
+* Service subscription overview
+* Customer segmentation
+* Interactive slicers for dynamic filtering
+* Clear and intuitive visualizations for business reporting
 
-Page 2: Executive Summary & Recommendations
-A text-based summary designed for stakeholders and decision-makers:
-
-- 📌 Objective — Clear statement of the business problem being solved
-- 🔍 Key Insights — Plain-language explanation of what the visuals reveal
-- ✅ Recommendations— Actionable steps to reduce churn based on the data
 
 Dashboard Preview
 <img width="1431" height="809" alt="Telecoms dashboard " src="https://github.com/user-attachments/assets/5978f0da-d554-492f-8f85-af1a20d85d24" />
